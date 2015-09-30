@@ -1,0 +1,37 @@
+{
+    "name": "principal",
+    "version": "0.0.1",
+    "homepage": "https://github.com/raschlemper/site",
+    "appPath": "public/",
+    "dependencies": {
+        "angular": ">=1.4.*",
+        "jquery": "~1.11.0",
+        "bootstrap": "~3.3.5",
+        "angular-animate": ">=1.4.*",
+        "angular-resource": ">=1.4.*",
+        "angular-cookies": ">=1.4.*",
+        "angular-sanitize": ">=1.4.*",
+        "angular-touch": ">=1.4.*",
+        "angular-bootstrap": "~0.11.0",
+        "angular-ui-router": "~0.2.10",
+        "angular-translate": "~2.7.2",
+        "font-awesome": ">=4.1.0",
+        "underscore": "~1.7.0",
+        "angular-promise-tracker": "*"
+    },
+    "authors": [
+        "rafael.schlemper <rafael.schlemper@gennera.com.br>"
+    ],
+    "moduleType": [
+        "amd"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "public/bower_components",
+        "test",
+        "tests"
+    ]
+}
